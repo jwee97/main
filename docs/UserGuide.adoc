@@ -595,11 +595,11 @@ Outcome:
 ****
 
 ==== Find activities by name: `findactivity`
-You can use this command to find activities by title.
+You can use this command to find activities by title or location.
 
 *Format:*
 
-`findactivity TITLE [MORE_TITLE]...`
+`findactivity KEYWORD [MORE_KEYWORD]...`
 
 [NOTE]
 ====
